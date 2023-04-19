@@ -8,6 +8,7 @@ body {
   background-color: rgb(0, 0, 0);
 }
 
+
 .container {
   max-width: 1000px;
   margin: auto;
@@ -101,3 +102,6 @@ text-align: center;
 .description h3 {
 font-size: 24px;
 }
+
+
+
